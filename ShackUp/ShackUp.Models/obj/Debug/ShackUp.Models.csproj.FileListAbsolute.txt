@@ -1,0 +1,17 @@
+C:\SG_DDWA_v2.1\5_FullStack_Web\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+C:\SG_DDWA_v2.1\5_FullStack_Web\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+C:\SG_DDWA_v2.1\5_FullStack_Web\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.csprojAssemblyReference.cache
+C:\SG_DDWA_v2.1\5_FullStack_Web\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.csproj.CoreCompileInputs.cache
+C:\SG_DDWA_v2.1\5_FullStack_Web\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+C:\SG_DDWA_v2.1\5_FullStack_Web\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.pdb
+C:\SG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+C:\SG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+C:\SG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.csproj.CoreCompileInputs.cache
+C:\SG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+C:\SG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.pdb
+C:\SG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.csprojAssemblyReference.cache
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.csproj.CoreCompileInputs.cache
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.pdb

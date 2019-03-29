@@ -1,0 +1,13 @@
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\ShackUp.BLL.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\ShackUp.BLL.pdb
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\ShackUp.Data.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\ShackUp.Models.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\Dapper.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\ShackUp.Data.pdb
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\ShackUp.Models.pdb
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\bin\Debug\Dapper.xml
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\obj\Debug\ShackUp.BLL.csprojAssemblyReference.cache
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\obj\Debug\ShackUp.BLL.csproj.CoreCompileInputs.cache
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\obj\Debug\ShackUp.BLL.csproj.CopyComplete
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\obj\Debug\ShackUp.BLL.dll
+C:\SWG_DDWA_v2.1\5\Demo_BuildAFullStackWebApp\CodeAlong\ShackUp\ShackUp.BLL\obj\Debug\ShackUp.BLL.pdb
